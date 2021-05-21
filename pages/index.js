@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 const PaginaPrinc = () => {
     return (
-    <div className='mx-auto container text-justify text-gray-800 w-2/4'>
+    <div className='mx-auto container text-justify text-gray-800 p-8 -mt-8'>
         <p>Software Developer for more than 20 years, having a vast experience in ERP development, using different technologies. 
             Graduated in Information Systems, I'm able to fit both as software analyst and developer. 
             Also, I'm experienced in providing third level support.
